@@ -4,4 +4,4 @@
 ### Work in progress ... !
 
 Resources:
-Photo by Andrew Draper on Unsplash
+A Photo by Andrew Draper on Unsplash
